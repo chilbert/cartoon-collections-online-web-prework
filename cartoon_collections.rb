@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(veggies)
   veggies.each do |vegetable|
-    vegetable.capitalize! + "!"
+    vegetable.capitalize!
   end
 end
 
