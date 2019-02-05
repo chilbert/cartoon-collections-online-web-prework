@@ -8,6 +8,7 @@ def summon_captain_planet(veggies)
     vegetable = vegetable + "!"
   end
 end
+
 def long_planeteer_calls(planeteer)
   planeteer.any? do |word|
   planeteer.length > 4
